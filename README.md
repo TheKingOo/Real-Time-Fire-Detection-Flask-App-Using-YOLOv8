@@ -2,6 +2,7 @@
 
 Welcome to the Real-Time Fire Detection Flask App! This application harnesses the power of YOLO (You Only Look Once),to provide instant fire detection directly from your webcam feed. Built on the Flask web framework for Python, it offers a seamless and user-friendly experience.
 ## Model Metrics
+These metrics collectively showcase the model's reliability and efficiency in real-world fire detection scenarios.
 ![metrics](https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask/assets/95720632/9f3a6c02-a67c-48fb-af53-daed54438cb0)
 ## Model Architecture
 ![architecture](https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask/assets/95720632/96c83027-76e6-4813-a088-c70609e05609)

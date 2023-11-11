@@ -29,6 +29,7 @@ pip install virtualenv
 
 ```bash
 git clone https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask.git
+cd YOLOv8-Fire-Detection-Webcam-App-with-Flask
 ```
 
 2 - Create and activate a virtual environment:
